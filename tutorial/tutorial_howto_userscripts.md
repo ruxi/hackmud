@@ -6,4 +6,4 @@
 
 ## I know javascript, how do I load it to the game?
 
-In-game console, type ```#edit``` and it will launch a text editor to start coding.  
+In-game console, type ```#edit``` and it will launch a text editor to start coding.  For other options, type ```#help``` 
