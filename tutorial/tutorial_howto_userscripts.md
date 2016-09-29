@@ -18,3 +18,7 @@ For other options, type ```#help```
 Example
 
 >/hl=kernel.hardline
+
+## Is there a FAQ?
+
+There are some user-created FAQ. try ```b.faq```
