@@ -22,3 +22,7 @@ Example
 ## Is there a FAQ?
 
 There are some user-created FAQ. try ```b.faq```
+
+## Community resources
+
+[Sea Wolves Community Google Docs](https://docs.google.com/spreadsheets/d/1qU235L-s6-2banGsNE-9I91jAV4Tzhq5qdZg1acnDLo/htmlview?sle=true#gid=431181233)
