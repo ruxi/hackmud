@@ -7,7 +7,7 @@
 ## How do I create a userscript?
 
 In-game console, type ```#edit <scriptname>``` and it will launch a text editor to start coding.  
-Once your done, type ```#up <scriptname```. The number of scripts, and length of characters depends on your upgrades.
+Once your done, type ```#up <scriptname> public```. The number of scripts, and length of characters depends on your upgrades. To check what scripts are on the server: ```scripts.user```. To delete scripts to free up a slot: ```#up  <scriptname> delete```
 
 For other options, type ```#help``` 
 
@@ -29,3 +29,6 @@ There are some user-created FAQ. try ```b.faq```
 
 
 [script tuts](https://docs.google.com/document/d/1cNms-T_KSFy0F5j1xHXrUZEGd7AM49QEork3KlpGqkc/)
+
+
+If any of this was helpful: ```ruxi.donate```.
