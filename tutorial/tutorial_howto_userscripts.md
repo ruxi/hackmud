@@ -31,4 +31,6 @@ There are some user-created FAQ. try ```b.faq```
 [script tuts](https://docs.google.com/document/d/1cNms-T_KSFy0F5j1xHXrUZEGd7AM49QEork3KlpGqkc/)
 
 
+---
+
 If any of this was helpful: ```ruxi.donate```.
