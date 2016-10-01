@@ -33,4 +33,4 @@ There are some user-created FAQ. try ```b.faq```
 
 ---
 
-If any of this was helpful: ```ruxi.donate```.
+If any of this was helpful: ```ruxi.donate{amt:"10KGC"}```.
